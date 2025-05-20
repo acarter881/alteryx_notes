@@ -1,6 +1,6 @@
 # Alteryx Notes & Bookmarks
 
-A personal stash of study guides, practice workflows, and helpful URLs I collected while preparing for the **Alteryx Designer Core, Advanced, Expert, and Predictive Master** exams.
+A personal stash of study guides, practice workflows, and helpful URLs I collected while preparing for the **Alteryx Designer Advanced, Expert, and Predictive Master** exams.
 
 ---
 
