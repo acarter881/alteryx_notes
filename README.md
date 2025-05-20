@@ -37,4 +37,4 @@ Found a typo? Have a new resource to share? Feel free to open a pull request. Fo
 
 ---
 
-> *Disclaimer – These materials are unofficial and provided “as-is.” Alteryx LLC is not affiliated with this repository.*
+> *Disclaimer – These materials are unofficial and provided “as-is.” Alteryx, Inc. is not affiliated with this repository.*
