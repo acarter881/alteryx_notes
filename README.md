@@ -8,11 +8,8 @@ A personal stash of study guides, practice workflows, and helpful URLs I collect
 
 | If you just want the files | If you use Git |
 | -------------------------- | -------------- |
-| 1. Click the **`<> Code`** button on the repo’s home page.<br>2. Choose **“Download ZIP”**.<br>3. Un-zip it—you’ll see several `.docx` study guides, one `.zip` of practice workflows, and `bookmarks_Alteryx.html`. | ```bash
-git clone https://github.com/acarter881/alteryx_notes.git
-``` |
-
----
+| 1. Click the **`<> Code`** button on the repo’s home page.<br>2. Choose **“Download ZIP”**.<br>3. Un-zip it—you’ll see several `.docx` study guides, one `.zip` of practice workflows, and `bookmarks_Alteryx.html`. | bash
+git clone https://github.com/acarter881/alteryx_notes.git |
 
 ## 📚 What’s inside
 
