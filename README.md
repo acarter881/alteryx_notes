@@ -14,7 +14,7 @@ A personal stash of study guides, practice workflows, and helpful URLs I collect
 
 | File | Purpose |
 | ---- | ------- |
-| `Advanced Exam Notes.pdf, Expert Exam Notes.pdf, 'Predictive Master Exam Notes.pdf` | Written notes and sample exam questions |
+| `Advanced Exam Notes.pdf, Expert Exam Notes.pdf, Predictive Master Exam Notes.pdf` | Written notes and sample exam questions |
 | `Expert_Resources_1.zip` | Sample workflows & data for Alteryx Expert |
 | `bookmarks_Alteryx.html` | Export of all useful web pages, Community posts, and help articles |
 
