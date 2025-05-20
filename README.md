@@ -19,7 +19,7 @@ git clone https://github.com/acarter881/alteryx_notes.git
 | File | Purpose |
 | ---- | ------- |
 | `Advanced Exam Study Guide.docx`, `Expert Exam (1-5).docx`, `Predictive Master Exam (1-3).docx` | Written notes and sample exam questions |
-| `Expert_Resources_1.zip` | Sample workflows & data for Alteryx Designer |
+| `Expert_Resources_1.zip` | Sample workflows & data for Alteryx Expert |
 | `bookmarks_Alteryx.html` | Export of all useful web pages, Community posts, and help articles |
 
 ---
